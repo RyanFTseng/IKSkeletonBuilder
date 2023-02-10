@@ -11,7 +11,7 @@ The IK Solver in this application uses the FABRIK algorithim. The IK solver can 
 
 
 # KeyFraming
-Keyframe animation is simulated using a target point from the IK Solver to save positions for a chain of joints. Keyframes are simulated using procedural animation. </br>
+Keyframe animation is simulated using a target point from the IK Solver to save positions for a chain of joints. Keyframes are simulated using procedural animation. Animation timing is adjustable using a slider to adjust the number of frames between each keyframe. </br>
 
 
 # Controls
